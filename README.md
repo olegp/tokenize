@@ -12,5 +12,5 @@ To run, first install Common Node with `npm install common-node -g` then:
 Then, use `curl` to connect to the server on port 8080, e.g.:
 
      curl -d '{"test":"test"}' http://localhost:8080/classes/notes
-     curl 'http://localhost:8080/classes/notes
+     curl http://localhost:8080/classes/notes
 
